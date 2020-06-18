@@ -1,0 +1,11 @@
+{
+   "name": "frontend",
+   "version": "1.0.0",
+   "main": "index.js",
+   "author": "lhh <906560238@qq.com>",
+   "license": "MIT",
+   "private": true,
+   "scripts": {
+      "test": "echo 'skip test...'"
+  }
+}
